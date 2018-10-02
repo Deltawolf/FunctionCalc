@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{2FE630A0-AD01-4DCC-8B1D-4047B438353D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunctionCalc", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{2FE630A0-AD01-4DCC-8B1D-4047B438353D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FAC43C88-9094-41B6-8F38-749EC8C29E34}
+		SolutionGuid = {6D4D3B88-D549-4048-ADCD-273E7C26FC1A}
 	EndGlobalSection
 EndGlobal
